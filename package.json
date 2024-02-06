@@ -1,0 +1,26 @@
+{
+  "name": "ramen_syndrome_express",
+  "version": "0.1.0",
+  "description": "express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramen-Syndrome/Ramen-Syndrome_express.git"
+  },
+  "keywords": [
+    "server",
+    "express"
+  ],
+  "author": "jsmin6330",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramen-Syndrome/Ramen-Syndrome_express/issues"
+  },
+  "homepage": "https://github.com/Ramen-Syndrome/Ramen-Syndrome_express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
